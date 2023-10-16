@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnx-rafaelmedeiros&label=Profile%20views&color=0e75b6&style=flat" alt="cnx-rafaelmedeiros" /> </p>
 
 - 🔭 I’m currently working on [@ConexaSaude](https://github.com/conexasaude)
+- Courses held at Alura on [@Rafael-Galanodel](https://cursos.alura.com.br/vitrinedev/rafael-galanodel)
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmedeirosconsultor/)](https://www.linkedin.com/in/rafaelmedeirosconsultor/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@rafaelgalanodel)](https://www.youtube.com/@rafaelgalanodel)
